@@ -1,0 +1,16 @@
+{
+  "name": "Ultimate Gorilla Expedition",
+  "version": "0.1.0-dev",
+  "releaseStatus": "source-only-unverified",
+  "primaryHost": "Gorilla Tag",
+  "mode": "solo",
+  "multiplayer": false,
+  "listing": {
+    "title": "Ultimate Gorilla Expedition",
+    "tagline": "One gorilla, six games, and a base camp that goes wrong immediately.",
+    "description": "Launch a solo expedition from Gorilla Tag's world. A truck rolls into camp, supplies rain from above, cookies start multiplying, and an unpaid bill appears before your journey has even begun. Complete suspicious tasks and explore the crossover — with each companion's real installed content required, not copied into the mod. This listing remains a draft until the actual host integration and every required game-content adapter are built and tested."
+  },
+  "credits": null,
+  "license": null,
+  "allowRemix": null
+}
